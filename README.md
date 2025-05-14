@@ -20,7 +20,7 @@ A lightweight Flask route for **CTFd administrators** to manually adjust user or
 
 ## 🧩 Endpoint
 
-### GET /api/score/adjust`
+### GET /api/score/adjust
 
 > ⚠️ This route requires an **authenticated admin** session.
 
